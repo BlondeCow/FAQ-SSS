@@ -28,3 +28,6 @@
 
 **Sunuculara saldırarak koruma mı satmak istiyorsun?**
 - Hayır
+
+**Client kullanarak mı yapıyorsun?**
+- Hayır
