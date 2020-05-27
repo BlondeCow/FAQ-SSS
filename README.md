@@ -31,3 +31,7 @@
 **Do you want to sell protection by attacking servers?**
 
 - No
+
+**You're doing it with Client?**
+
+- No
