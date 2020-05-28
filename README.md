@@ -1,9 +1,9 @@
 # Minecraft Server Griefing
 #### Please read this post before asking me a question
 ## Introduction
-- I will write the answer to the questions that 9895895 people ask me every day
+- I will write the answer to the questions which/that have been asked for everyday by 94737282 people
 - New questions will be added every day
-- Currently 2 languages are available in Turkish and English, those who wish to translate to a different language can contact me at my Discord BlondeCow#5145
+- Currently 2 languages are available in Turkish and English, for those who want to translate to a different language can contact me at my Discord BlondeCow#5145
 
 # Questions and answers
 
